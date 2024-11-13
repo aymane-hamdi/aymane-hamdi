@@ -19,7 +19,7 @@ I have a deep interest in software development and problem-solving, and I am alw
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/aymanhamdi037" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Aymane Hamdi" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/aymane-hamdi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aymane Hamdi" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/aymane-hamdi-179744247" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aymane Hamdi" height="30" width="40" /></a>
   <a href="https://discord.gg/aymane_hamdi" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aymane_hamdi" height="30" width="40" /></a>
 </p>
 
